@@ -1,4 +1,8 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlsd205NTJ3dDI2ZW5pM203aXJ4NHpmNGRueDkzM2M1MzA1Ym1iYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
+###
+
+<h1 align="right">Hey 👋What's Up?</h1>
 
 ###
 
